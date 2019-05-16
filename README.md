@@ -4,6 +4,7 @@ this is a component write for cocos-creator. it can run on android and ios both.
 
 ![avatar](./sampleImg.png)
 
+### 2.0+ 版本的引擎，用 2.0+ 文件夹内的文件
 
 - 1、import      
 - 
